@@ -33,11 +33,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Preview Desktop 
 
-![Projeto finance]([/github/desktop.png](https://github.com/robsu17/ignite-feed/assets/105562688/79e6306a-589c-4248-b2b7-4a32d0251290))
+<div align="center">
+  <img src="https://github.com/robsu17/ignite-feed/assets/105562688/79e6306a-589c-4248-b2b7-4a32d0251290" height="400px" width="800px" />
+</div>
 
 ## Preview Mobile 
 
-![Projeto finance](/github/mobile.png)
+<div align="center">
+  <img src="https://github.com/robsu17/ignite-feed/assets/105562688/84914dae-25cf-46a6-9cff-dd29e22637c5" height="667px" width="375px" />
+</div>
 
 ## Considerações
 
