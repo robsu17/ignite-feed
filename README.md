@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Preview Desktop 
 
-![Projeto finance](/github/desktop.png)
+![Projeto finance]([/github/desktop.png](https://github.com/robsu17/ignite-feed/assets/105562688/79e6306a-589c-4248-b2b7-4a32d0251290))
 
 ## Preview Mobile 
 
