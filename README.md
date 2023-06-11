@@ -1,4 +1,5 @@
 # Projeto Ignite Feed
 
 # Começando
-### Instale as seguintes dependências:
+
+Instale as seguintes dependências:
