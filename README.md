@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Projeto desenvolvido no curso Ignite da @rocketseat. Trata-se de um feed onde podemos comentar nas postagens e interagir com os comentários. Podemos deletar os comentários se preferir.
+Projeto desenvolvido no curso Ignite da @rocketseat. Trata-se de um feed onde podemos criar postagens, comentar, curtir e remover comentários e além de curtir.
 
 ## Começando...
 
@@ -38,4 +38,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Preview Mobile 
 
 ![Projeto finance](/github/mobile.png)
+
+## Considerações
+
+- Este projeto usou as principais ferramentas do React como useState, componentes, propriedades e funções. Todas essas ferramentas deixam a página com mais interatividade trazendo uma boa conectividade com o usuário. 
+- Nesta aplicação pude aprimorar meus conhecimentos em React servindo como gancho para outros projetos maiores que usem das mesmas ferramentas e consequentemente possuem uma complexidade bem maior. Como este projeto não tem integração com o back-end então é apenas aconselhável para quem está em um nivel nem tão iniciante mas nem tão intermediário.
+
+## 🚀🚀
+
+
 
