@@ -1,7 +1,7 @@
 # Projeto Ignite Feed
 
-### Projeto de um feed de uma rede social com funcionalidades de criar post, adicionar comentário, remover comentários, curtir cumentários 
-Com React.
+### Projeto de um feed de uma rede social com funcionalidades de criar post, adicionar comentário, remover comentários, curtir cumentários Com React. 
+
 
 ### Através das ferramentas que o React proporciona como useState é possível tornar a aplicação dinâmica, mudando dados na tela sem alterar a forma que a página expoe os dados para o usuário.
 
