@@ -3,3 +3,6 @@
 # Começando
 
 Instale as seguintes dependências:
+npm install
+# ou
+yarn 
